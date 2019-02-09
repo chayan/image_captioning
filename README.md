@@ -3,7 +3,7 @@ This is a project to generate captions (a short description describing what is p
 For example it can generate captions as follows:
 
 ![some image](./images/g3.jpg)
-#### A Man on a horse walkind down the road
+#### A Man on a horse walking down the road
 
 ## How does it do it?
 
